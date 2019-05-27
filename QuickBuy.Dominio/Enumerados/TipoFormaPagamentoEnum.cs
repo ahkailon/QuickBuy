@@ -4,7 +4,7 @@ using System.Text;
 
 namespace QuickBuy.Dominio.Enumerados
 {
-    class enum TipoFormaPagamentoEnum
+    public enum TipoFormaPagamentoEnum
     {
         NaoDefinido=0,
         Boleto =1,
